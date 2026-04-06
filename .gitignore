@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# env files (CRITICAL)
+.env
+bhavdeep-ai/.env
+server/.env
+
+# build
+dist/
+build/
+
+# logs
+npm-debug.log*
